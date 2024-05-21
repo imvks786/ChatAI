@@ -1,6 +1,5 @@
 # ChatAI
 ![Screenshot 2024-05-21 102239](https://github.com/imvks786/ChatAI/assets/56357173/b5e59dc6-f62f-480e-ae0d-aa5a1e6890d3)
-**A generative chat bot developed by Vivek Singh, using Google Gemini API.**
 
 # Overview
 This project is a Flask-based web application that leverages Google API Gemini (Google Bard) and Google Search API to create a generative chatbot with multiple features. The application supports text-to-text conversation, image-to-text conversation, and text-to-speech integration, providing a robust user authentication system and token limit management. The token limits reset daily to ensure fair usage.
