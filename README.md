@@ -24,17 +24,13 @@ This project is a Flask-based web application that leverages Google API Gemini (
 Visit **"https://aistudio.google.com/app/apikey"** for API key and use in this project.
 
 # Usage
-**User Registration and Login**
 1. Register a new account using the /register route.
 2. Log in using the /login route.
-**Chatbot Interaction**
-1. Once logged in, users can engage with the chatbot via text or image inputs.
-2. Text responses can be converted to speech if voice integration is enabled.
-**Token Management**
-1. Each user is allocated a certain number of tokens per day.
-2. Tokens reset automatically at the start of each day.
-**Sharing Content**
-1. Users can share content via a generated link which can be accessed by others.
+3. Once logged in, users can engage with the chatbot via text or image inputs.
+4. Text responses can be converted to speech if voice integration is enabled.
+5. Token Management: Each user is allocated a certain number of tokens per day.
+6. Tokens reset automatically at the start of each day.
+7. Sharing Content: Users can share content via a generated link which can be accessed by others.
 
 # Contributing
 Contributions are welcome! Please open an issue or submit a pull request.
